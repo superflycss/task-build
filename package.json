@@ -1,6 +1,6 @@
 {
   "name": "@superflycss/task-build",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Build task for superflycss modules",
   "main": "src/main/js/index.js",
   "scripts": {
@@ -39,7 +39,7 @@
     "postcss-import": "^10.0.0",
     "postcss-reporter": "^3.0.0",
     "postcss-sass-color-functions": "^1.1.0",
-    "superflycss/pli": "1.0.0"
+    "@superflycss/pli": "1.0.0"
   },
   "peerDependencies": {
     "gulp": "3.x"
