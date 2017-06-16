@@ -8,7 +8,7 @@ See [Installation](https://github.com/superflycss/superflycss/#installation).
 
 ## Usage
 
-See [Usage](https://github.com/superfly-css/superflycss/#usage)
+See [Usage](https://github.com/superflycss/superflycss/#usage)
 
 ## Plugins
 
