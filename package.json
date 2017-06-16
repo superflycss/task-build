@@ -1,6 +1,6 @@
 {
   "name": "@superflycss/task-build",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Build task for superflycss modules",
   "main": "src/main/js/index.js",
   "scripts": {
