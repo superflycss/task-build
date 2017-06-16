@@ -1,4 +1,4 @@
-# SuperflyCSS task-build
+# Build task
 
 Build task for superflycss modules
 
