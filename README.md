@@ -1,5 +1,7 @@
 # Build task
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/superflycss/task-build.svg)](https://greenkeeper.io/)
+
 [Gulp](http://gulpjs.com/) [PostCSS](http://postcss.org/) build task for [superflycss](https://github.com/superflycss) modules.  The build task uses the [pli - project layout instance](https://github.com/superflycss/pli) and builds css files in `src/main/css` and `src/test/css` and outputs the result files to `target/main/css` and `target/test/css` correspondingly.  See the [Build Task PostCSS Plugins](https://github.com/superflycss/task-build#plugins) list for a list of plugins currently supported.
 
 ## Installation
